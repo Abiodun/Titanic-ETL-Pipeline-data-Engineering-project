@@ -7,14 +7,14 @@ The goal of this project is to perform data analytics on titanic data using vari
 - Injest or load the data from Github
 - Remove duplicates
 - Filter out the children that did not survive
-- Sink data in MySQL or BigQuery
+- Sink processed data in MySQL or BigQuery
 
 ## 🚀 Screenshots
 ![Loading the raw data](https://raw.githubusercontent.com/Abiodun/Titanic-ETL-Pipeline-data-Engineering-project/3a938d9c6ed9e460b9ae97b70a723210ba2752e9/ETL%20architecture.png)
 
 ![Loading the raw data](https://raw.githubusercontent.com/Abiodun/Titanic-ETL-Pipeline-data-Engineering-project/3a938d9c6ed9e460b9ae97b70a723210ba2752e9/screenshot/data_import.png)
 
-![Sinked Data](​https://raw.githubusercontent.com/Abiodun/Titanic-ETL-Pipeline-data-Engineering-project/main/screenshot/sinked_data.png)
+![Sinked_Data](​https://raw.githubusercontent.com/Abiodun/Titanic-ETL-Pipeline-data-Engineering-project/main/screenshot/sinked_data.png)
 
 ## 🚀 About Me?
 I'm just a normal guy doing stuff with data and providing solutions
