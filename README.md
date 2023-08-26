@@ -14,9 +14,9 @@ The goal of this project is to perform data analytics on titanic data using vari
 
 ![Loading the raw data](https://raw.githubusercontent.com/Abiodun/Titanic-ETL-Pipeline-data-Engineering-project/3a938d9c6ed9e460b9ae97b70a723210ba2752e9/screenshot/data_import.png)
 
-![Loading the raw data](https://raw.githubusercontent.com/Abiodun/Titanic-ETL-Pipeline-data-Engineering-project/main/screenshot/sinked_data.png)
+![Loading the raw data](https://raw.githubusercontent.com/Abiodun/Titanic-ETL-Pipeline-data-Engineering-project/main/screenshot/result.png)
 
-![Sinked_Data](​https://raw.githubusercontent.com/Abiodun/Titanic-ETL-Pipeline-data-Engineering-project/main/screenshot/sinked_data.png)
+![Loading the raw data](https://raw.githubusercontent.com/Abiodun/Titanic-ETL-Pipeline-data-Engineering-project/main/screenshot/sinked_data.png)
 
 ## 🚀 About Me?
 I'm just a normal guy doing stuff with data and providing solutions
