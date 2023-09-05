@@ -6,7 +6,7 @@ The goal of this project is to perform data analytics on titanic data using vari
 ## 🚀 Task
 - Injest or load the data from Github
 - Remove duplicates
-- Filter out the children that did not survive
+- Filter out the children that did not survive (<20y Old)
 - Sink processed data in MySQL or BigQuery
 
 ## 🚀 Screenshots
